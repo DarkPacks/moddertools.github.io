@@ -44,7 +44,7 @@
 - [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) is a Symlink tool allowing you to use MultiMC as your modpack launcher but still use GDLauncher or Curseforge to easily update mods. [Click here for more information](/sym-link)
 - [Region Locator Coordinate Tool](https://dinnerbone.com/minecraft/tools/coordinates/){:target="\_blank"} You will often need to locate a region file. This will make that process much easier.
 - [NBT Explorer](https://github.com/jaquadro/NBTExplorer/releases){:target="\_blank"} (sometimes you’ll need to edit files like level.dat and NBT Explorer will open and allow editing)
-
+- [Java Escape / Unescape](https://codebeautify.org/java-escape-unescape){:target="\_blank"} (Helpful for when a mod or script requires you to escape quotes or a string. Just paste in and convert. Works both ways.)
 ## [**Optimization**](/optimization)
 
 ## [**Performance Mods**](/performance-mods)
