@@ -43,8 +43,13 @@
 - [CraftTweaker to DataPack Converter](https://muddrdev.com/minecraft/convertcrafttweaker.html) This is a tool made by Muddr to convert Craftweaker recipes to datapack json recipes. This is very handy when updating from CrT to Datapacks without having to do all of the copy/pasting manually.
 - [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html) is a Symlink tool allowing you to use MultiMC as your modpack launcher but still use GDLauncher or Curseforge to easily update mods. [Click here for more information](/sym-link)
 - [Region Locator Coordinate Tool](https://dinnerbone.com/minecraft/tools/coordinates/){:target="\_blank"} You will often need to locate a region file. This will make that process much easier.
-- [NBT Explorer](https://github.com/jaquadro/NBTExplorer/releases){:target="\_blank"} (sometimes you’ll need to edit files like level.dat and NBT Explorer will open and allow editing)
-- [Java Escape / Unescape](https://codebeautify.org/java-escape-unescape){:target="\_blank"} (Helpful for when a mod or script requires you to escape quotes or a string. Just paste in and convert. Works both ways.)
+- [NBT Explorer](https://github.com/jaquadro/NBTExplorer/releases){:target="\_blank"} sometimes you’ll need to edit files like level.dat and NBT Explorer will open and allow editing
+- [SNBT Editor](https://gorymoon.github.io/snbt-editor/){:target="\_blank"} This editor can unescape and format nbt data for easier edits
+- [Java Escape / Unescape](https://codebeautify.org/java-escape-unescape){:target="\_blank"} Helpful for when a mod or script requires you to escape quotes or a string. Just paste in and convert. Works both ways.
+- [Minecraft Latest Log Parser](https://muddrdev.com/minecraft/parseLog.html){:target="\_blank"} This log parser tool can take a latest log and filter out errors making the dev process much more efficient!
+- [https://muddrdev.com/minecraft/convertREICollapsibles.html](REI Collapsible Json Converter){:target="\_blank"} This is a tool designed to extract item/block IDs from REI configs for use in other scripts. Can potentially be used to cleanup other entries in other cases
+
+
 ## [**Optimization**](/optimization)
 
 ## [**Performance Mods**](/performance-mods)
