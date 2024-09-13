@@ -47,7 +47,7 @@
 - [SNBT Editor](https://gorymoon.github.io/snbt-editor/){:target="\_blank"} This editor can unescape and format nbt data for easier edits
 - [Java Escape / Unescape](https://codebeautify.org/java-escape-unescape){:target="\_blank"} Helpful for when a mod or script requires you to escape quotes or a string. Just paste in and convert. Works both ways.
 - [Minecraft Latest Log Parser](https://muddrdev.com/minecraft/parseLog.html){:target="\_blank"} This log parser tool can take a latest log and filter out errors making the dev process much more efficient!
-- [https://muddrdev.com/minecraft/convertREICollapsibles.html](REI Collapsible Json Converter){:target="\_blank"} This is a tool designed to extract item/block IDs from REI configs for use in other scripts. Can potentially be used to cleanup other entries in other cases
+- [REI Collapsible Json Converter](https://muddrdev.com/minecraft/convertREICollapsibles.html){:target="\_blank"} This is a tool designed to extract item/block IDs from REI configs for use in other scripts. Can potentially be used to cleanup other entries in other cases
 
 
 ## [**Optimization**](/optimization)
